@@ -5,3 +5,4 @@
   - 🔭 I'm a React Native Developer intern
   - 💻 I’m currently learning and have interest JavaScript, HTML, CSS and TypeScript
   - 📫 Where to find me: <a href='https://www.linkedin.com/in/jumatosk/'>LinkedIn</a>
+  - 📱  Mobile development enthusiast
