@@ -1,5 +1,5 @@
 # Juliana Matos 👩‍💻
-## 📍 [![Gmail Badge](https://img.shields.io/badge/-jumatosk@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jumatosk@gmail.com)](mailto:jumatosk@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Juliana%20Matos-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jumatosk/)](https://www.linkedin.com/in/jumatosk/) 
+## 📍 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jumatosk@gmail.com)](mailto:jumatosk@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-006192?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jumatosk/)](https://www.linkedin.com/in/jumatosk/) 
 
 ## 👋 Olá, tudo bem?
 Prazer, sou Juliana, tenho 24 anos e sou fascinada por tecnologia.
