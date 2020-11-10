@@ -5,10 +5,10 @@
 Prazer, sou Juliana, tenho 24 anos e sou fascinada por tecnologia.
 
  - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas no IFBA
- - 💻 Estagiária em Desenvolvimento React Native
- - 📝 Tenho interesse em TypeScript, React e Nodejs.
- - 💡 Estou aprendendo JavaScript, CSS, Java e Kotlin.
-  - 📱  Entusiasta de desenvolvimento mobile.
+ - 💻 Desenvolvedora React Native Júnior na Stefanini
+ - 📝 Tenho interesse em TypeScript, React e Nodejs
+ - 💡 Estou aprendendo JavaScript, CSS, Java e Kotlin
+ - 📱 Entusiasta de desenvolvimento mobile
 
 
 <p align = "center">
