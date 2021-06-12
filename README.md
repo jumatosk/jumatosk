@@ -5,7 +5,8 @@
 Prazer, sou Juliana, tenho 25 anos, sou fascinada por tecnologia e busco a evolução do conhecimento constantemente.
 
  - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas no IFBA
- - 💻 Desenvolvedora de Software Júnior na <a href="https://stefanini.com/pt-br">Stefanini Brasil</a>
- - 👩🏻‍💻 Tecnologias em contato diário: Typescript, Javascript (React e React Native), HTML e CSS
+ - 💻 Analista de Sistemas Júnior na <a href="https://www.acpgroup.com.br/">ACP Group</a>
+ - 🧠 HTML, CSS, Javascript, Typescript, React, React Native, Bootstrap
+ - 👩🏻‍💻 Linguagem em contato diário: Typescript, Javascript (React e React Native)
  - 📝 Tenho interesse em Node.js
  - 📱 Entusiasta de desenvolvimento mobile
