@@ -6,7 +6,6 @@ Prazer, sou Juliana, tenho 25 anos, sou fascinada por tecnologia e busco a evolu
 
  - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas no IFBA
  - 💻 Analista de Sistemas Júnior na <a href="https://www.acpgroup.com.br/">ACP Group</a>
- - 🧠 HTML, CSS, Javascript, Typescript, React, React Native, Bootstrap
- - 👩🏻‍💻 Linguagem em contato diário: Typescript, Javascript (React e React Native)
- - 📝 Tenho interesse em Node.js
+ - 🧠 JavaScript, TypeScript, HTML, CSS, React, React Native, Flutter, Ionic, Bootstrap
+ - 📝 Tenho interesse em Node.js, 
  - 📱 Entusiasta de desenvolvimento mobile
